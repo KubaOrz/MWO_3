@@ -1,0 +1,5 @@
+/home/azureuser/MyDockerApp/bin/Release/net8.0/publish/MyDockerApp
+/home/azureuser/MyDockerApp/bin/Release/net8.0/publish/MyDockerApp.dll
+/home/azureuser/MyDockerApp/bin/Release/net8.0/publish/MyDockerApp.deps.json
+/home/azureuser/MyDockerApp/bin/Release/net8.0/publish/MyDockerApp.runtimeconfig.json
+/home/azureuser/MyDockerApp/bin/Release/net8.0/publish/MyDockerApp.pdb

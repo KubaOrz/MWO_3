@@ -1,0 +1,14 @@
+/home/azureuser/MyDockerApp/bin/Release/net8.0/MyDockerApp
+/home/azureuser/MyDockerApp/bin/Release/net8.0/MyDockerApp.deps.json
+/home/azureuser/MyDockerApp/bin/Release/net8.0/MyDockerApp.runtimeconfig.json
+/home/azureuser/MyDockerApp/bin/Release/net8.0/MyDockerApp.dll
+/home/azureuser/MyDockerApp/bin/Release/net8.0/MyDockerApp.pdb
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.AssemblyInfoInputs.cache
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.AssemblyInfo.cs
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.csproj.CoreCompileInputs.cache
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.dll
+/home/azureuser/MyDockerApp/obj/Release/net8.0/refint/MyDockerApp.dll
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.pdb
+/home/azureuser/MyDockerApp/obj/Release/net8.0/MyDockerApp.genruntimeconfig.cache
+/home/azureuser/MyDockerApp/obj/Release/net8.0/ref/MyDockerApp.dll
